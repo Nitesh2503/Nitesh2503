@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nitesh2503
 - 👀 I’m interested in Exploring new technologies 
-- 🌱 I’m currently working as Intern i Kickdrum
+- 🌱 I’m currently working as SDE Intern in Kickdrum
 - 📫 How to reach me www.linkedin.com/in/25nitesh
 
 <!---
